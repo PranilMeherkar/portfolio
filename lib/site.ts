@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 
 export const SOCIAL = {
-  github: "https://github.com/your-username",
+  github: "https://github.com/PranilMeherkar",
   linkedin: "https://in.linkedin.com/in/pranil-meherkar-b37a7a1a4",
   email: "pmeherkar@gmail.com",
 } as const;
@@ -34,22 +34,32 @@ export type TimelineEntry = {
 
 export const TIMELINE: TimelineEntry[] = [
   {
-    period: "Feb 2023 – Present",
-    title: "Associate Software Developer (Acting Technical Lead)",
+    period: "Sept 2026 – Oct 2026",
+    title: "Senior Software Developer (Acting Technical Lead)",
     company: "Nimap Infotech",
     highlights: [
-      "Lead frontend execution and technical coordination for 18–20 developers across React and Next.js applications.",
-      "Built reusable components, scalable UI architecture, and shared state-management solutions.",
-      "Optimized Next.js apps with SSR, SSG, caching, and SEO; improved Core Web Vitals.",
-      "Conducted code reviews, mentored juniors, and aligned delivery with product stakeholders.",
+      "Directed frontend team execution and managed technical delivery across concurrent React.js and Next.js projects.",
+      "Accelerated development workflows, complex debugging, and code refactoring using AI tools like Cursor and Claude Code.",
+      "Conducted thorough architectural code reviews, mentored engineers, and upheld frontend best practices across teams.",
     ],
   },
   {
-    period: "2018 – 2022",
+    period: "Feb 2023 – Sept 2026",
+    title: "Associate Software Developer (Acting Technical Lead)",
+    company: "Nimap Infotech",
+    highlights: [
+      "Led frontend technical coordination and delivery for an 18–20 member engineering team across cross-functional products.",
+      "Architected reusable React generic components, scalable design systems, and centralized state-management solutions.",
+      "Engineered high-performance Next.js applications with SSR, SSG, intelligent caching, and Core Web Vitals optimization.",
+      "Collaborated closely with product managers and cross-functional teams to deliver scalable solutions matching business goals.",
+    ],
+  },
+  {
+    period: "Sept 2018 – May 2022",
     title: "B.Tech, Electronics & Telecommunications",
     company: "K J Somaiya Institute of Technology",
     highlights: [
-      "Engineering foundation supporting a career in high-performance web development.",
+      "Engineering foundation supporting a career in high-performance web development and frontend systems architecture.",
     ],
   },
 ];
@@ -149,8 +159,8 @@ export const BENTO_ITEMS: BentoItem[] = [
     className: "",
   },
   {
-    name: "Cursor / AI",
-    description: "AI-assisted development",
+    name: "Cursor / Claude Code",
+    description: "AI-accelerated engineering",
     icon: Sparkles,
     className: "",
   },

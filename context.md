@@ -1,90 +1,56 @@
-Pranil R. Meherkar 
-Frontend Developer | React.js | Next.js 
-Mumbai, Maharashtra | +91 9757196299 | pmeherkar@gmail.com | https://in.linkedin.com/in/pranil-meherkar-b37a7a1a4
+PRANIL R. MEHERKAR
+Frontend Developer | React.js | Next.js
+📍 Mumbai, Maharashtra 📞 +91-9757196299 ✉ pmeherkar@gmail.com 🔗 linkedin.com/in/pranil-meherkar
 
-SUMMARY 
-Result-driven Software Engineer with 3.5 years of experience 
-specializing in high-performance web applications using React.js and 
-Next.js. Currently operating as an Acting Technical Lead, overseeing 
-frontend architecture and the delivery of an 18–20 member engineering 
-team across multiple cross-functional projects. Proven expertise in 
-building scalable, type-safe UI systems (Generic components), 
-optimizing Next.js web vitals, and bridging the gap between product 
-requirements and technical execution. 
-EDUCATION 
-B.Tech. (Electronics & Telecommunications) 
-K J Somaiya Institute of Technology | 2022 
-EXPERIENCE 
-Nimap Infotech – Associate Software Developer (Acting Technical 
-Lead) 
-Feb 2023 – Present 
-• Led frontend task execution and technical coordination for multiple 
-React.js and Next.js applications across a team of 18–20 
-developers.  
-• Built reusable React components, scalable UI architecture, and 
-shared state-management solutions to improve development 
-efficiency and code consistency.  
-• Developed and optimized high-performance Next.js applications 
-using SSR, SSG, caching, and SEO optimization techniques. 
-• Leveraged AI-assisted development tools including Cursor and 
-Claude Code to accelerate development workflows, debugging, 
-refactoring, and component generation.  
-• Conducted code reviews, mentored junior developers, and 
-promoted frontend best practices across the team. 
-• Collaborated with product managers and stakeholders to deliver 
-scalable frontend solutions aligned with business requirements. 
-SKILLS 
-Frontend Frameworks: React.js, Next.js (App Router, SSR, SSG, ISR), 
-HTML5, CSS3 
-Languages: JavaScript (ES6+), TypeScript 
-State Management: Redux Toolkit, Context API, SWR 
-Architecture: Custom Hooks, Generic Components, Web Vitals 
-Optimization 
-Tools & UI: Git, Tailwind CSS, Material UI, Webpack/Vite, Docker 
-Developer Tools: Cursor, Claude Code, Postman, VS Code 
-Leadership: Team Management (18+ devs), Technical Mentorship, 
-Agile/Scrum, Code Reviews 
+SUMMARY
+Results-focused Software Engineer with 3 years and 9 months of experience specializing in high-performance web applications using React.js and Next.js. Most recently worked as an Acting Technical Lead, overseeing frontend architecture and driving delivery across a team of 18–20 engineers on multiple cross-functional projects. Strong expertise in architecting scalable, type-safe UI systems (generic components), optimizing Next.js Core Web Vitals, and bridging product requirements with robust engineering execution.
+
+CORE SKILLS
+Frontend Frameworks: React.js, Next.js (App Router, SSR, SSG, ISR), HTML5, CSS3
+Languages: JavaScript (ES6+), TypeScript
+Backend (Basic): Node.js, Express.js, PostgreSQL
+State Management: Redux Toolkit, Context API, SWR
+Architecture & UI: Custom Hooks, Generic Components, Tailwind CSS, Material UI
+Tools & DevOps: Git, Webpack/Vite, Docker, Cursor, Claude Code, Postman, VS Code
+Leadership: Team Management (18+ developers), Technical Mentorship, Agile/Scrum, Code Reviews
 Testing: React Testing Library, Vitest, Jest
 
+PROFESSIONAL EXPERIENCE
+Nimap Infotech
+Senior Software Developer (Acting Technical Lead) | Sept 2026 – Oct 2026
+Associate Software Developer (Acting Technical Lead) | Feb 2023 – Sept 2026
+• Directed frontend execution and technical coordination for multiple React.js and Next.js applications across an 18–20 member engineering team.
+• Engineered reusable React components, scalable UI architecture (generic components), and shared state-management solutions to improve development velocity and maintain design consistency.
+• Developed and optimized high-performance Next.js applications leveraging SSR, SSG, intelligent caching, and SEO optimization to elevate Core Web Vitals.
+• Leveraged AI-assisted development tools including Cursor and Claude Code to accelerate development workflows, debugging, code refactoring, and rapid component prototyping.
+• Conducted comprehensive code reviews, mentored junior developers, and established team-wide frontend best practices and coding standards.
+• Collaborated closely with product managers, UX designers, and cross-functional stakeholders to deliver scalable frontend solutions aligned with business objectives.
 
-PROJECTS 
-Seven Ring (Fintech Wearable Payment Platform) - 7 Ring 
-• Developed high-performance landing pages and checkout flows 
-using Next.js for an NFC-enabled wearable payment platform.  
-• Built reusable layouts, scalable UI components, and smooth 
-interactive animations for responsive user experiences.  
-• Optimized SEO, Core Web Vitals, and frontend performance using 
-SSR/SSG, lazy loading, and image optimization techniques.  
-• Integrated ecommerce workflows with responsive, production
-ready frontend architecture. 
-QREATIVS - Qreativs 
-• Built scalable Next.js platform connecting creative professionals 
-with businesses. 
-• Implemented protected routes, password recovery, and role-based 
-authentication systems. 
-• Optimized rendering performance using infinite scrolling, 
-debouncing, and Intersection Observer. 
-• Integrated Stripe payment workflows and WebSocket-based real
-time updates. 
-Womaty (Women-Centric Social & Community Platform) - Ongoing 
-• Developed responsive web modules using React.js and Next.js for 
-activities, groups, subscriptions, and community features 
-• Built reusable UI components, dynamic filters, dashboards, and 
-real-time workflows using Web Sockets and API integrations.  
-• Implemented role-based access, Stripe subscription flows, and 
-scalable frontend architecture for modular feature development.  
-• Optimized frontend performance, responsiveness, and user 
-experience with lazy loading, code splitting, and mobile-first design 
-patterns. 
-Credit Card Expense Management System  
-• Developed an enterprise expense management portal using 
-React.js for automated credit card expense tracking and approval 
-workflows.  
-• Built role-based dashboards for admins, users, and approvers with 
-batch-wise transaction management and CSV export features.  
-• Implemented dynamic form systems, multi-level approval 
-workflows, receipt uploads, notifications, and configurable business 
-rules.  
-• Developed reusable table components, dropdown mapping 
-systems, and optimized large dataset handling for improved 
-operational efficiency.
+TECHNICAL PROJECTS
+Womaty (Women-Focused Social and Community Platform) | Sept 2025 – Oct 2026
+• Developed responsive web modules using React.js and Next.js for community activities, group management, subscriptions, and interactive social features.
+• Built reusable UI components, dynamic filtering systems, interactive dashboards, and real-time workflows via WebSockets and REST APIs.
+• Implemented role-based access control (RBAC), Stripe subscription and payment flows, and modular frontend architecture for scalable feature expansion.
+• Optimized frontend performance, mobile responsiveness, and user experience utilizing code splitting, lazy loading, and mobile-first design patterns.
+
+Seven Ring (Fintech Wearable Payment Platform) | Nov 2025 – Feb 2026
+• Developed high-performance landing pages and checkout flows using Next.js for an NFC-enabled wearable payment platform.
+• Built reusable layouts, scalable design-system components, and smooth interactive animations for responsive, cross-device experiences.
+• Optimized SEO, Core Web Vitals, and frontend loading speeds leveraging SSR/SSG, lazy loading, and Next.js image optimization.
+• Integrated robust e-commerce workflows with responsive, production-ready frontend architecture.
+
+QREATIVS (Creative Professional Network) | Apr 2025 – Jul 2025
+• Built a scalable Next.js platform connecting creative professionals and businesses.
+• Implemented protected routes, password recovery workflows, and role-based authentication systems.
+• Optimized rendering performance using infinite scrolling, debounce utilities, and the Intersection Observer API.
+• Integrated Stripe payment gateways and WebSocket-powered real-time updates and notifications.
+
+Credit Card Expense Management System | Aug 2023 – Aug 2024
+• Developed an enterprise web application using React.js for automated credit card expense tracking and multi-tier approval workflows.
+• Built role-based dashboards for admins, users, and approvers featuring batch transaction management and CSV export functionality.
+• Implemented dynamic form systems, multi-level approval workflows, receipt upload pipelines, real-time alerts, and configurable business rules.
+• Designed reusable table components, dropdown mapping systems, and optimized handling of large datasets for improved operational efficiency.
+
+EDUCATION
+B.Tech. (Electronics & Telecommunications) | Sept 2018 – May 2022
+K J Somaiya Institute of Technology
