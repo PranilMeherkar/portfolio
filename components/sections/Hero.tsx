@@ -19,7 +19,7 @@ export function Hero() {
       <div className="relative z-10 mx-auto w-full max-w-6xl">
         <FadeIn>
           <p className="mb-6 font-mono text-xs uppercase tracking-[0.25em] text-zinc-500">
-            Acting Technical Lead · Mumbai
+            Senior Frontend Engineer & Acting Tech Lead · Mumbai
           </p>
         </FadeIn>
 
@@ -40,7 +40,7 @@ export function Hero() {
 
         <FadeIn delay={0.45}>
           <p className="mt-4 max-w-xl text-base text-muted">
-            Leading 18–20 developers across cross-functional Next.js products.
+            3.75 years of experience · Led 18–20 developers across scalable React & Next.js products.
           </p>
         </FadeIn>
 

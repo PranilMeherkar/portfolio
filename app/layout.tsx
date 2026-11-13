@@ -15,13 +15,13 @@ const dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Pranil Meherkar — Acting Technical Lead · React & Next.js",
+  title: "Pranil Meherkar — Senior Frontend Developer & Acting Technical Lead · React & Next.js",
   description:
-    "Acting Technical Lead specializing in React and Next.js. Leading 18–20 developers across scalable frontend architecture, performance, and delivery.",
+    "Results-focused Software Engineer with 3.9 years of experience specializing in React.js and Next.js. Senior Developer & Acting Technical Lead guiding 18–20 engineers across scalable frontend architecture, performance, and delivery.",
   openGraph: {
-    title: "Pranil Meherkar — Acting Technical Lead",
+    title: "Pranil Meherkar — Senior Frontend Developer & Acting Technical Lead",
     description:
-      "Frontend engineer & Acting Tech Lead building high-performance React and Next.js applications at scale.",
+      "Senior Frontend Engineer & Acting Tech Lead building high-performance React and Next.js applications at scale.",
     type: "website",
   },
 };
