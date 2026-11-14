@@ -23,7 +23,10 @@ export function SectionHeading({
       >
         {label}
       </p>
-      <h2 className="font-display text-3xl font-bold tracking-tight text-foreground md:text-4xl lg:text-5xl">
+      <h2
+        id={`${id}-heading`}
+        className="font-display text-3xl font-bold tracking-tight text-foreground md:text-4xl lg:text-5xl"
+      >
         {title}
       </h2>
       {description && (

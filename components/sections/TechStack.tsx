@@ -9,7 +9,7 @@ export function TechStack() {
     <section
       id="stack"
       className="px-6 py-24 md:px-8 md:py-32"
-      aria-labelledby="stack-label"
+      aria-labelledby="stack-heading"
     >
       <div className="mx-auto max-w-6xl">
         <SectionHeading

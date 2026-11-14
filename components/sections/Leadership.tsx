@@ -10,7 +10,7 @@ export function Leadership() {
     <section
       id="leadership"
       className="px-6 py-24 md:px-8 md:py-32"
-      aria-labelledby="leadership-label"
+      aria-labelledby="leadership-heading"
     >
       <div className="mx-auto max-w-6xl">
         <SectionHeading

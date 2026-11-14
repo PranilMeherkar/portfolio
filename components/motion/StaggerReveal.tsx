@@ -8,12 +8,14 @@ type StaggerRevealProps = {
   text: string;
   className?: string;
   splitBy?: "words" | "chars";
+  id?: string;
 };
 
 export function StaggerReveal({
   text,
   className,
   splitBy = "words",
+  id,
 }: StaggerRevealProps) {
   const ref = useRef(null);
   const inView = useInView(ref, { once: true, margin: "-40px" });
@@ -42,20 +44,20 @@ export function StaggerReveal({
   };
 
   return (
-    <h1 ref={ref} className={className}>
+    <h1 id={id} ref={ref} className={className}>
+      <span className="sr-only">{text}</span>
       <motion.span
         className="inline-flex flex-wrap"
         variants={container}
         initial="hidden"
         animate={inView ? "visible" : "hidden"}
-        aria-label={text}
+        aria-hidden="true"
       >
         {parts.map((part, i) => (
           <motion.span
             key={`${part}-${i}`}
             variants={child}
             className="inline-block"
-            aria-hidden
           >
             {part}
             {splitBy === "words" && i < parts.length - 1 ? "\u00A0" : ""}

@@ -23,8 +23,9 @@ export function Hero() {
           </p>
         </FadeIn>
 
-        <div id="hero-heading">
+        <div className="relative">
           <StaggerReveal
+            id="hero-heading"
             text="Pranil Meherkar"
             className="font-display text-5xl font-bold leading-[1.05] tracking-tight text-foreground sm:text-6xl md:text-7xl lg:text-8xl"
           />

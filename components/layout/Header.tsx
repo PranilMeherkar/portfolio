@@ -23,7 +23,8 @@ export function Header() {
         aria-label="Main navigation"
       >
         <Link
-          href="#"
+          href="/"
+          aria-label="Pranil Meherkar - Return to top"
           className="font-display text-sm font-bold tracking-tight text-foreground transition-opacity hover:opacity-80"
         >
           PRANIL<span className="text-violet-400">.</span>

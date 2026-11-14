@@ -57,6 +57,7 @@ export function ContactFooter() {
                   href={href}
                   target="_blank"
                   rel="noopener noreferrer"
+                  aria-label={`Visit Pranil Meherkar on ${label}`}
                   className="inline-flex h-12 items-center gap-2 rounded-full border border-white/10 bg-white/5 px-5 text-sm text-foreground transition-colors hover:border-violet-500/40 hover:bg-violet-500/10 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-500"
                 >
                   <Icon className="h-4 w-4" aria-hidden />
@@ -70,6 +71,7 @@ export function ContactFooter() {
             >
               <Link
                 href={`mailto:${SOCIAL.email}`}
+                aria-label="Send email to Pranil Meherkar"
                 className="inline-flex h-12 items-center gap-2 rounded-full bg-gradient-to-r from-violet-600 to-violet-500 px-6 text-sm font-medium text-white shadow-lg shadow-violet-500/20 transition-opacity hover:opacity-90 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-violet-500 focus-visible:ring-offset-2 focus-visible:ring-offset-background"
               >
                 <Mail className="h-4 w-4" aria-hidden />

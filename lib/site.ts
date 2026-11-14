@@ -12,6 +12,34 @@ import {
   Wind,
 } from "lucide-react";
 
+export const SITE_CONFIG = {
+  name: "Pranil Meherkar",
+  shortName: "Pranil",
+  role: "Senior Frontend Developer & Acting Technical Lead",
+  title: "Pranil Meherkar — Senior Frontend Developer & Acting Technical Lead · React & Next.js",
+  description:
+    "Results-focused Software Engineer with 3.9 years of experience specializing in high-performance web applications using React.js and Next.js. Senior Developer & Acting Technical Lead guiding 18–20 engineers across scalable frontend architecture, performance, and delivery.",
+  url: "https://portfolio-beta-flax-cr3w0td88t.vercel.app",
+  ogImage: "/opengraph-image",
+  location: "Mumbai, Maharashtra, India",
+  email: "pmeherkar@gmail.com",
+  phone: "+91-9757196299",
+  skills: [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Tailwind CSS",
+    "Redux Toolkit",
+    "SWR",
+    "Core Web Vitals",
+    "SSR / SSG / ISR",
+    "Frontend Architecture",
+    "Technical Mentorship",
+    "Team Leadership",
+  ],
+} as const;
+
 export const SOCIAL = {
   github: "https://github.com/PranilMeherkar",
   linkedin: "https://in.linkedin.com/in/pranil-meherkar-b37a7a1a4",
