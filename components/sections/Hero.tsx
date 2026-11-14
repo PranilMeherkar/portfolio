@@ -34,7 +34,7 @@ export function Hero() {
         <FadeIn delay={0.3}>
           <p className="mt-6 max-w-2xl text-lg leading-relaxed text-zinc-300 md:text-xl">
             Frontend engineer specializing in{" "}
-            <span className="text-foreground">React & Next.js</span> —
+            <span className="text-foreground">React & Next.js</span> -
             architecture, performance, and delivery at scale.
           </p>
         </FadeIn>

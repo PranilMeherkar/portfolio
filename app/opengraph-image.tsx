@@ -1,6 +1,6 @@
 import { ImageResponse } from "next/og";
 
-export const alt = "Pranil Meherkar — Senior Frontend Developer & Acting Technical Lead";
+export const alt = "Pranil Meherkar - Senior Frontend Developer & Acting Technical Lead";
 export const size = {
   width: 1200,
   height: 630,

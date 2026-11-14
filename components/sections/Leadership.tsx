@@ -17,7 +17,7 @@ export function Leadership() {
           id="leadership"
           label="Leadership"
           title="Mentorship & knowledge sharing"
-          description="Beyond delivery — I manage teams, run code reviews, and host technical sessions that elevate frontend standards across the organization."
+          description="Beyond delivery - I manage teams, run code reviews, and host technical sessions that elevate frontend standards across the organization."
         />
         <StaggerChildren className="grid gap-4 sm:grid-cols-2 lg:gap-6">
           {SESSIONS.map((session) => (
